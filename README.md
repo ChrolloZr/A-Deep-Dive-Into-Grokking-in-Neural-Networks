@@ -31,7 +31,8 @@ NumPy & Matplotlib
 
 
 The live research dashboard is hosted via GitHub Pages:
- https://chrollozr.github.io/Grokking-mechanictics-interpretability/
+ [https://chrollozr.github.io/Grokking-mechanictics-interpretability/
+](https://chrollozr.github.io/A-Deep-Dive-Into-Grokking-in-Neural-Networks/)
 
 Credits
 This project was developed by Moussa-Alioune Taboure with the help of Google Antigravity.
